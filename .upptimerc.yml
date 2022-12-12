@@ -3,6 +3,18 @@ owner: adriancarlsson # Your GitHub organization or username, where this reposit
 repo: uptime-adrian # The name of this repository
 
 sites:
+  - name: Belid
+    url: https://www.belid.se/sv-se
+  - name: Herstal
+    url: https://www.herstal.dk
+  - name: Belid Lighting Group
+    url: https://www.belidlightinggroup.com/sv-se
+  - name: Galantus
+    url: https://www.galantus.se
+  - name: One Dear Thing
+    url: https://onedearthing.com
+  - name: GoGross
+    url: https://gogross.se
   - name: QueensLab
     url: https://www.queenslab.co
   - name: QueensLab Careers
