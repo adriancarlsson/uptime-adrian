@@ -17,7 +17,7 @@ on:
 jobs:
   release:
     name: Build
-    runs-on: [self-hosted, macOS, ARM64]
+    runs-on: [self-hosted, Linux, ARM64, default]
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.3
